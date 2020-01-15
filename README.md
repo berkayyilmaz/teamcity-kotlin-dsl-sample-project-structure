@@ -24,11 +24,19 @@ TeamCity Sample Project Creation with Kotlin DSL
 
 1. ![Environments](images/environments.png)
 
+
+
 2. ![Environments](images/environment-1.png)
+
+
 
 3. ![Build Configurations](images/build_confs.png)
 
+
+
 4. ![Build Steps](images/build_steps.png)
 
-Enjoy!
+
+
+**Enjoy!**
  
